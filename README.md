@@ -1,6 +1,11 @@
 # Deitel_2020_Intro_to_Python
 mm
 
+<kbd >
+  <img src="book.jpg" 
+     style="border:1px solid black;
+            width:500px;"  >
+</kbd>
 
 
 Publisher's website:
